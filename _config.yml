@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Felipe Almeida 
+email: contato+smd@falmeida.co
+description: > # this means to ignore newlines until "baseurl:"
+  Blog criado para compartilhamento de informações, pesquisas e postagens de conteúdos diversos referente ao cursos de Sistemas e Mídias Digitais, pela Universidade Federal do Ceará (UFC).
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://smd.falmeida.co" # the base hostname & protocol for your site
+twitter_username: dflip
+github_username:  falmeidaco
+facebook_username:  felipealmeida
+linkedin_url:  https://www.linkedin.com/in/falmeidaco
+
+# Build settings
+markdown: kramdown
