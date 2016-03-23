@@ -10,7 +10,7 @@ tags:
 
 Como execício, foi proposto a utilização de um dos exemplos existentes do site da linguagem Processing [http://processing.org/examples](http://processing.org/examples), onde o exemplo escolhido deveria ser comentado, modificado e apresentado na aula. Abaixo, o resultado do exercício:
 
-No código original é demostrado a possibilidade de carregar na tela uma imagem da internet. A modificção do exemplo foi a alteração da cor do fundo dinamicamente utilizando uma cor existente na imagem carregada. 
+No código original é demostrado a possibilidade de carregar na tela uma imagem da internet. A modificação do exemplo foi a alteração da cor do fundo dinamicamente utilizando uma cor existente na imagem carregada. 
 
 {% highlight java %}
 PImage img;
