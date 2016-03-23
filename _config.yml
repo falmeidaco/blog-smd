@@ -16,6 +16,7 @@ twitter_username: dflip
 github_username:  falmeidaco
 facebook_username:  felipealmeida
 linkedin_url:  https://www.linkedin.com/in/falmeidaco
+permalink: :slug
 
 # Build settings
 markdown: kramdown

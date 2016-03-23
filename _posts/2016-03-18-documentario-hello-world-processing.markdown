@@ -4,6 +4,8 @@ title:  "Documentário: Hello World! Processing"
 date:   2016-03-18 13:00:00 -0300
 categories: smd matematica-aplicada-a-multimidia-i
 author: Felipe Almeida
+tags:
+- documentário
 ---
 “Hello World! Processing” é um documentário construído da compilação de diversos outros documentários que abordam temas como o desenvolvimento da comunicação, o compartilhamento de dados e informações, criação digital e programação. A unificação desses temas resulta em uma apresentação e definição da ferramenta Processing. 
 
