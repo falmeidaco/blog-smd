@@ -87,9 +87,5 @@ void organizar(int h, int v) {
 }
 {% endhighlight %}
 
-O resultado pode ser visualizado no gif abaixo:
-
-![Resultado do código](http://i.giphy.com/l2R0cPSv9xjV22j28.gif)
-
 Links úteis:  
 [Saiba mais sobre a linguagem Processing](https://processing.org/){:target="_blank"}
