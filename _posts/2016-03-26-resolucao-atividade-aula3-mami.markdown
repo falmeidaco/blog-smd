@@ -11,12 +11,12 @@ tags:
 
 **Atividade**  
 *Posicionar horizontalmente 5 imagens de 20x30px, estando 2 na horizontal e 3 na vertical, em uma janela de 180px de largura com espaços iguais entre as imagens e as extremidades da janela.*  
-Considerando a situaçao acima, desenvolver uma funçao que receba 2 parametros, sendo o o primeiro para o numero de fuguras X por Y px q ser exibidas horizontalmente e o segundo para o numero de figuras das mesmas proporcoes a serem exibidas verticalmente.
+Considerando a situaçao acima, desenvolver uma funçao que receba 2 parametros, sendo o o primeiro para o numero de fuguras X por Y px a serem exibidas horizontalmente e o segundo para o numero de figuras das mesmas proporcoes a serem exibidas verticalmente.
 
 {% highlight java %}
 /**
   * Descriçao: Resuluçao do desafio da aula 3
-  * Disciplina: Matemática Alplicada a Multimida I
+  * Disciplina: Matemática Aplicada a Multimida I
   * Curo: Sistemas e Mídias Digitais (Universidade Federal do Ceará)
   * Autor: Felipe ALmeida
   */
