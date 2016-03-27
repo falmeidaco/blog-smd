@@ -6,7 +6,6 @@ categories: smd matematica-aplicada-a-multimidia-i
 author: Felipe Almeida
 tags:
 - processing
-- desafio
 ---
 *Obs.: As teclas de acentuacao nao estao funcionando.*
 
