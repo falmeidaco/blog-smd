@@ -28,8 +28,8 @@ void setup() {
   //Iniciando tela com tamanho predefinido
   size(180,200);
   //Defindo dimensões da figura
-  quadradoLargura = 21;
-  quadradoAltura = 23;
+  quadradoLargura = 20;
+  quadradoAltura = 30;
 }
 
 void draw() {
