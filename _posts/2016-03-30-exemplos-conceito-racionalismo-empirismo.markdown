@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exemplificando os conceitos filosóficos Racionaliso e Empirismo"
+title:  "Exemplificando os conceitos filosóficos Racionalismo e Empirismo"
 date:   2016-03-30 13:00:00 -0300
 categories: smd cognicao-tecnologias-digitais
 author: Felipe Almeida
@@ -16,13 +16,13 @@ _Adventure Time (Hora de Aventura) é uma série de desenho animado americana de
 
 **Exemplo empirista**  
 **Episódio**: All the little people  
-**Resumo do episório**: O Mágico coloca uma pequena sacola na calça de Finn com pequenos "bonecos" parecidos com eles e seus amigos.  
+**Resumo do episódio**: O Mágico coloca uma pequena sacola na calça de Finn com pequenos "bonecos" parecidos com eles e seus amigos.  
 **Características empiristicas**: No episódio, Finn fica viciado em simular diferentes situações com os bonecos enfeitiçados. Ele aprende, por meio da manipulação da vida dos bonecos que o resultado das situações criadas pode resultar em uma situação boa ou ruim.    
 **Link pra assistir online**: [http://www.noitosfera.com/at/s05/e05](http://www.noitosfera.com/at/s05/e05){:target="_blank"}
 
 **Exemplo racionalista**  
 **Episódio**: Ghost Fly   
-**Resumo do episório**: Jake mata uma mosca que toma sua sopa. Mas ele e Finn tem que achar uma solução quando a mosca retorna como um poderoso fantasma que vem assombrá-los.  
+**Resumo do episódio**: Jake mata uma mosca que toma sua sopa. Mas ele e Finn tem que achar uma solução quando a mosca retorna como um poderoso fantasma que vem assombrá-los.  
 **Características empiristicas**: No episódio, Jake e seus amigos são assombrado pelo fantasma de uma mosca, onde esta foi esmagada e morta pelo Jake enquanto tentava tomar a sua sopa. O conceito racionalista está presente no medo sentido pelo Jake e seus amigos perante o fantasma da mosca, pelo conhecimento inato de que aquela entidade entidade fantasmagórica é perigosa.  
 **Link pra assistir**: online [http://www.noitosfera.com/at/s06/e17](http://www.noitosfera.com/at/s06/e17){:target="_blank"}
 
