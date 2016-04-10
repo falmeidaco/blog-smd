@@ -11,8 +11,11 @@ tags:
 
 Para exemplificar os conceitos filosóficos racionalista e empirista, irei utilizar dois episódios do desenho Adventure Time (Hora da Aventura), que é exibido pelo canal Cartoon Network.
 
-Sobre o desenho:  
-_Adventure Time (Hora de Aventura) é uma série de desenho animado americana desenvolvida por Pendleton Ward para o Cartoon Network. A série segue as aventuras de Finn, um garoto humano aventureiro, e o seu melhor amigo e irmão adotivo Jake, um cão com poderes de origem mutante que lhe permitem alterar a forma e tamanho consoante a sua vontade. Finn e Jake habitam a pós-apocalíptica Terra de Ooo, onde interagem com os outros personagens principais da série: Princesa Jujuba , o Rei Gelado e Marceline, a Rainha dos Vampiros._
+Sobre o desenho:
+
+>Adventure Time (Hora de Aventura) é uma série de desenho animado americana desenvolvida por Pendleton Ward para o Cartoon Network. A série segue as aventuras de Finn, um garoto humano aventureiro, e o seu melhor amigo e irmão adotivo Jake, um cão com poderes de origem mutante que lhe permitem alterar a forma e tamanho consoante a sua vontade. Finn e Jake habitam a pós-apocalíptica Terra de Ooo, onde interagem com os outros personagens principais da série: Princesa Jujuba , o Rei Gelado e Marceline, a Rainha dos Vampiros.
+
+*Fonte: Wikipedia*
 
 **Exemplo empirista**  
 **Episódio**: All the little people  

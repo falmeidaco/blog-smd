@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Blog</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700' rel='stylesheet' type='text/css'>
+    <style>
+        html,body {
+            font-family: 'Source Code Pro', Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+        .thebox {
+            background: #f6f6f6;
+            width: 300px;
+            height: 300px;
+            position: relative;
+            display: inline-block;
+        }
+            .thebox .content {
+                position: absolute;
+                max-width: 100%;
+                top:0;
+                left: 0;
+                z-index: 2;
+                padding: 10px;
+            }
+        .thebox .properties {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            top:0;
+            left: 0;
+            z-index: 1;
+        }
+            .thebox .properties .category {
+                position: absolute;
+                bottom: 10px;
+                left:10px;
+                z-index: 2;
+            }
+            .thebox .properties .badge {
+                position: absolute;
+                bottom: 10px;
+                right: 10px;
+                z-index: 3;
+            }
+            .thebox .properties .background {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                z-index: 1;
+            }
+                .thebox .properties .background .color-filter {
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    background:#f1f1f1;
+                    opacity: 0.8;
+                    z-index: 2;
+                }
+                .thebox .properties .background .image {
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    background-image: none;
+                    background-position: center;
+                    background-size: cover;
+                    z-index: 1;
+                }
+        
+    </style>
+</head>
+<body>
+    <div class="thebox">
+        <div class="properties">
+            <div class="category">category</div>
+            <div class="badge">01</div>
+            <div class="background">
+                <div class="color-filter"></div>
+                <div class="image"></div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="post-item">
+                <div class="post-date">01.01</div>
+                <div class="post-title">
+                    Olá mundo!
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        (function() {
+            var boxs = [];
+            boxs.push(
+                {
+                    properties:{
+                        id:"box1",
+                        class:"box1",
+                        name:"Box 1",
+                        badge:null,
+                        category:{
+                            id:"cat1",
+                            name:"Category 1",
+                        },
+                        background:{
+                            image_url:""
+                        }
+                    },
+                    content:{
+                        html:"Olá mundo!"   
+                    }
+                },
+                {
+                    properties:{
+                        id:"box2",
+                        class:"box2",
+                        name:"Box 2",
+                        badge:null,
+                        category:{
+                            id:"cat2",
+                            name:"Category 2",
+                        },
+                        background:{
+                            image_url:""
+                        }
+                    },
+                    content:{
+                        html:"Olá mundo!"   
+                    }
+                }
+            );
+        })();
+    </script>
+</body>
+</html>
