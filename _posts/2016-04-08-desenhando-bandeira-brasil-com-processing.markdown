@@ -57,7 +57,7 @@ void losango(float x, float y, float l, float a)
 }
 {% endhighlight %}
 
-A utilização do método pode ser experimentada no Processing com o código completo abaixo:
+A utilização do método pode ser experimentado no Processing com o código completo abaixo:
 
 {% highlight java %}
 //Variáveis necessára para interatividade com o mouse
