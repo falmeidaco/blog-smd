@@ -14,12 +14,13 @@ tags:
 ---
 
 O resultado do trabalho pode ser visualizado nesse link: [http://falmeidao.github.io](http://falmeidao.github.io)
+Algorítimo desenvolvido em Processing [https://github.com/falmeidaco/stephenator/tree/master/_Processing](https://github.com/falmeidaco/stephenator/tree/master/_Processing)
 
-<h2>Sobre o site</h2>
+## Sobre o site
 
-<h3>Objetivo</h3>
+### Objetivo
 
-Este site é o resultado do desenvolvimento do trabalho para a disciplina de Matemática Aplicada à Multimídia I (Universidade Federal do Ceará, semestre II). Selecionando uma série de obras de algum artista, deve ser desenvolvido um recurso que possibilite a reprodução visual da série escolhida. Deve ser analisado os detalhes das obras, seus padrões de formas, cores, ângulos e quaisquer outras características que possam ser usadas como variáveis a serem utilizadas para a reprodução da imagem. 
+O site foi desenvolvido para a visualização do resultado do desenvolvimento do trabalho para a disciplina de **Matemática Aplicada à Multimídia I** (Universidade Federal do Ceará, semestre II). Selecionando uma série de obras de algum artista, deve ser desenvolvido um recurso que possibilite a reprodução visual da série escolhida. Deve ser analisado os detalhes das obras, seus padrões de formas, cores, ângulos e quaisquer outras características que possam ser usadas como variáveis a serem utilizadas para a reprodução da imagem. 
 
 ### Desenvolvimento
 
@@ -29,7 +30,7 @@ Foi desenvolvido um algoritmo em Processing para o estudo do comportamento desse
 
 ### Recursos
 
-Concluído o algoritmo, este foi reproduzido e adaptado para página da web utilizando o recurso canvas do HTML5. Para este site, também foi utilizado a biblioteca css [Bootstrap](http://getbootstrap.com/) com os elementos customizados, biblioteca javascript [JQuery](https://jquery.com/) para o desenvolvimento dos controles de variáveis, e a biblioteca javascript [Perfect-Scrollbar](https://noraesae.github.io/perfect-scrollbar/) para a customização da barra de rolagem da área de conteúdo. 
+Concluído o algoritmo, este foi reproduzido e adaptado para página da web utilizando o recurso canvas do HTML5. Para o site, também foi utilizado a biblioteca css [Bootstrap](http://getbootstrap.com/) com os elementos customizados, biblioteca javascript [JQuery](https://jquery.com/) para o desenvolvimento dos controles de variáveis, e a biblioteca javascript [Perfect-Scrollbar](https://noraesae.github.io/perfect-scrollbar/) para a customização da barra de rolagem da área de conteúdo. 
 
 ## Sobre o artista
 
