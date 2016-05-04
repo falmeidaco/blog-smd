@@ -15,9 +15,9 @@ tags:
 
 O resultado do trabalho pode ser visualizado nesse link: [http://falmeidao.github.io](http://falmeidao.github.io)
 
-## Sobre o site
+<h2>Sobre o site</h2>
 
-### Objetivo
+<h3>Objetivo</h3>
 
 Este site é o resultado do desenvolvimento do trabalho para a disciplina de Matemática Aplicada à Multimídia I (Universidade Federal do Ceará, semestre II). Selecionando uma série de obras de algum artista, deve ser desenvolvido um recurso que possibilite a reprodução visual da série escolhida. Deve ser analisado os detalhes das obras, seus padrões de formas, cores, ângulos e quaisquer outras características que possam ser usadas como variáveis a serem utilizadas para a reprodução da imagem. 
 
