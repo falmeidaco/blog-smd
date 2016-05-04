@@ -36,6 +36,4 @@ Concluído o algoritmo, este foi reproduzido e adaptado para página da web util
 
 ## Sobre o artista
 
-Stephen Westfall é um artita e crítico que se descreve como "Popista, pós-minimalista de pinturas geométricas.  Seus trabalhos, como do de 2009 
-
-### Sobre as obras
+Stephen Westfall é um artita e crítico que se descreve como "Popista, pós-minimalista de pinturas geométricas.
