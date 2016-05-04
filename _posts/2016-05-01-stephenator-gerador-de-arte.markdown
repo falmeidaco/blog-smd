@@ -15,7 +15,7 @@ tags:
 
 ## Resultado final
 
-O resultado do trabalho pode ser visualizado nesse link: [http://falmeidao.github.io/stephenator](http://falmeidao.github.io/stephenator)  
+O resultado do trabalho pode ser visualizado nesse link: [http://falmeidaco.github.io/stephenator](http://falmeidaco.github.io/stephenator)  
 Algorítimo desenvolvido em Processing [https://github.com/falmeidaco/stephenator/tree/master/_Processing](https://github.com/falmeidaco/stephenator/tree/master/_Processing)
 
 ## Sobre o site desenvolvido
