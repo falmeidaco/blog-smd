@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stehenator: gerador de arte"
+title:  "Stephenator: gerador de arte"
 date:   2016-05-01 13:00:00 -0300
 categories: smd matematica-aplicada-multimidia-i
 author: Felipe Almeida
@@ -15,7 +15,8 @@ tags:
 
 O resultado do trabalho pode ser visualizado nesse link: [http://falmeidao.github.io](http://falmeidao.github.io)
 
-##Sobre o site
+Sobre o site
+------------
 
 ###Objetivo
 
@@ -31,7 +32,8 @@ Foi desenvolvido um algoritmo em Processing para o estudo do comportamento desse
 
 Concluído o algoritmo, este foi reproduzido e adaptado para página da web utilizando o recurso canvas do HTML5. Para este site, também foi utilizado a biblioteca css [Bootstrap](http://getbootstrap.com/) com os elementos customizados, biblioteca javascript [JQuery](https://jquery.com/) para o desenvolvimento dos controles de variáveis, e a biblioteca javascript [Perfect-Scrollbar](https://noraesae.github.io/perfect-scrollbar/) para a customização da barra de rolagem da área de conteúdo. 
 
-##Sobre o artista
+Sobre o artista
+---------------
 
 Stephen Westfall é um artita e crítico que se descreve como "Popista, pós-minimalista de pinturas geométricas.  Seus trabalhos, como do de 2009 
 
