@@ -13,12 +13,12 @@ tags:
 - stephen westfall
 ---
 
-  
-  
+## Resultado final
+
 O resultado do trabalho pode ser visualizado nesse link: [http://falmeidao.github.io](http://falmeidao.github.io)  
 Algorítimo desenvolvido em Processing [https://github.com/falmeidaco/stephenator/tree/master/_Processing](https://github.com/falmeidaco/stephenator/tree/master/_Processing)
 
-## Sobre o site
+## Sobre o site desenvolvido
 
 ### Objetivo
 
