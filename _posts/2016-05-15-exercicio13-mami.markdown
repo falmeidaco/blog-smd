@@ -64,4 +64,4 @@ void desenhaBarco(float x, float y, float largura, float altura) {
 {% endhighlight %}
 
 
-![Resultado do código](https://github.com/falmeidaco/mami/blob/master/Aula%2013/tela.PNG)
+![Resultado do código](https://raw.githubusercontent.com/falmeidaco/mami/master/Aula%2013/tela.PNG)
