@@ -63,4 +63,4 @@ void botao_redondo(float x, float y, float raio, color c, color c_hover, color c
 {% endhighlight %}
 
 
-![https://raw.githubusercontent.com/falmeidaco/mami/master/Aula%2010/tela.png)
+![Resultado do código](https://raw.githubusercontent.com/falmeidaco/mami/master/Aula%2010/tela.png)
