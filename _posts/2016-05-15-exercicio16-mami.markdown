@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MAMI - Resolução do Exercício 16"
-date:   2016-05-15 15:00:00 -0300
+date:   2016-05-15 16:00:00 -0300
 categories: smd matematica-aplicada-multimidia-i
 author: Felipe Almeida
 tags:
